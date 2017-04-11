@@ -23,7 +23,7 @@ dct:description: "Developed at Cincinnati Children’s Hospital Medical Center f
 
 requirements:
   - class: DockerRequirement
-    dockerPull: quay.io/collaboratory/dockstore-tool-linux-sort:1.0
+    dockerPull: 312767926603.dkr.ecr.us-east-1.amazonaws.com/amazon-ecs-sample:latest
 
 inputs:
   input:
